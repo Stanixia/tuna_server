@@ -9,7 +9,7 @@ Tuna Server transform text file to api for use widget.html
 git clone https://github.com/Stanixia/tuna_server.git tuna_server
 cd tuna_server
 npm install 
-npm start
+node server.js
 ```
 
 ## Edit
