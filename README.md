@@ -22,7 +22,7 @@ replace 'http://localhost:1068/' by 'http://localhost:3000/'
 
 Tuna configuration
 
-![alt text](https://github.com/Stanixia/tuna_server/blob/master/screen.png)
+![alt text](https://github.com/Stanixia/tuna_server/blob/main/screen.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
